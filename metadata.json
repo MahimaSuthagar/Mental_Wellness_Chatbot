@@ -1,0 +1,5 @@
+{
+  "name": "Serenity - Your AI Wellness Companion",
+  "description": "A compassionate AI companion designed for mental wellness, mood tracking, and mindful exercises. Features empathetic chat, mood visualization, and guided breathing.",
+  "requestFramePermissions": ["microphone"]
+}
